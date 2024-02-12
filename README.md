@@ -2,19 +2,28 @@
 
 ## Lessons
 
-create node js project
-create http route
-add mongodb and mongoose to node js
-create book model
+ create node js project
+ 
+create http routeadd mongodb and mongoose to node jscreate book model
+
 get all books with mongoose
+
 update a book 
+
 delete a book
+
 refactor node js with express router
+
 Cors policy in node js and express js
+
 create recat project
+
 SPA and add react-router-dom
+
 show books list in recat
+
 show book details
+
 create book in react
 edit book in react
 delete book
